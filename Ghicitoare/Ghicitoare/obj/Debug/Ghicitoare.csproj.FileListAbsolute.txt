@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe.config
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.pdb
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.exe
+C:\Users\alexa\source\repos\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.pdb
